@@ -1,8 +1,16 @@
 <h3 align="center">
 
-![Cow Says](Cow%20Says.png)
+<img src="Cow%20Says.png" width="500">
 
-**Laksh Aggarwal**
+**Laksh Agg**
+
+<p align="center">
+<a href="https://linkedin.com/in/agglaksh">[ linkedin ]</a>
+<a href="https://instagram.com/laksh._.agg">[ instagram ]</a>
+<a href="https://editpixel.hungrypixel.in">[ img-editor ]</a>
+<a href="https://pdf-scanner.editpixel.hungrypixel.in/">[ pdf-scanner ]</a>
+<a href="mailto:aggarwallaksh54@gmail.com">[ mail ]</a>
+</p>
 
 Full-stack developer. Love building from scratch. I break things and fix them.
 
@@ -20,16 +28,7 @@ Full-stack developer. Love building from scratch. I break things and fix them.
 
 **ai & game dev** `TensorFlow` `Keras` `Unity` `Godot` `Love2D`
 
----
-
-<p align="center">
-<a href="https://linkedin.com/in/agglaksh">[ linkedin ]</a>
-<a href="https://instagram.com/laksh._.agg">[ instagram ]</a>
-<a href="https://editpixel.hungrypixel.in">[ img-editor ]</a>
-<a href="https://pdf-scanner.editpixel.hungrypixel.in/">[ pdf-scanner ]</a>
-<a href="mailto:aggarwallaksh54@gmail.com">[ mail ]</a>
-</p>
-
+----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
